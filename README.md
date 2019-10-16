@@ -1,2 +1,2 @@
-# Icons-SVG
+# Icons SVG
 Icons in SVG format
